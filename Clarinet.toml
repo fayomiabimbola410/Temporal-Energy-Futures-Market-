@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.chronon-futures-trading]
+path = 'contracts/chronon-futures-trading.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.temporal-flux-prediction-oracle]
 path = 'contracts/temporal-flux-prediction-oracle.clar'
 clarity_version = 2

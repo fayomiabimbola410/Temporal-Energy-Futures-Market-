@@ -9,3 +9,5 @@
 .contracts/temporal-flux-prediction-oracle.clar,5/1/5166f674ed67391e610a56c90a97e512ed247d1e
 ]
 -tests/temporal-flux-prediction-oracle.test.ts,3/f/3fb9ac9af3b7535210bbf182e558564fbc8152b3
+V
+&contracts/chronon-futures-trading.clar,6/f/6fee191d45e3dacacb340572aee72e42d13f78c2

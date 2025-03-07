@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.temporal-flux-prediction-oracle]
+path = 'contracts/temporal-flux-prediction-oracle.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.time-crystal-energy-harvesting]
 path = 'contracts/time-crystal-energy-harvesting.clar'
 clarity_version = 2

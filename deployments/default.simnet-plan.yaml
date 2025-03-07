@@ -60,6 +60,11 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: chronon-futures-trading
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/chronon-futures-trading.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: temporal-flux-prediction-oracle
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/temporal-flux-prediction-oracle.clar
